@@ -1,5 +1,6 @@
-Remember to add nodemodules folder (see screenshots)
-and add 
+Remember to add nodemodules folder
+
+and 
 
 npm init 
 
